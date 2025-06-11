@@ -6,7 +6,7 @@
 
 > 🎮 A retro-cyberpunk AI chat interface where Chip guides you through the digital realm! ✨
 
-![Chip Avatar](images/chip.png)
+![Chip Avatar](https://avatars.githubusercontent.com/u/198033265?v=4)
 
 ## ⭐ Features
 
